@@ -1,0 +1,8 @@
+hash: 15176f45eacec55f50e2182b2deec187c2380187ef5f5fb535939826d227839e
+updated: 2018-07-09T12:55:22.2585887+05:00
+imports:
+- name: github.com/hanwen/go-fuse
+  version: 5690be47d614355a22931c129e1075c25a62e9ac
+  subpackages:
+  - splice
+testImports: []

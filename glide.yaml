@@ -1,0 +1,6 @@
+package: github.com/markupCode/go-socks5
+import:
+- package: github.com/hanwen/go-fuse
+  version: ^20170619.0.0
+  subpackages:
+  - splice
